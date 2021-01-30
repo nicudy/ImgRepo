@@ -31,6 +31,6 @@ Currently the application can only upload single photos. When a photo is selecte
 ## React App
 
 - Navigate to my-react-app directory
-- Install modules: `npm install'
+- Install modules: `npm install`
 - Start the app: `npm start`
 - Navigate to http://localhost:3000/
