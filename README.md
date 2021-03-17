@@ -1,6 +1,6 @@
 # About the application
 
-Currently the application can only upload single photos. When a photo is selected to be uploaded, its metadata is stored within the database and the file is stored in /api/ImageRepo in order to fulfill the basic add functionality. This is a first past implementation to be improved upon in future iterations. 
+This application is the beginnings of a photo album application. Currently the application can only upload single photos. When a photo is selected to be uploaded, its metadata is stored within the database and the file is stored in /api/ImageRepo in order to fulfill the basic add functionality. This is a first past implementation to be improved upon in future iterations. 
 
 # Future improvements
 
